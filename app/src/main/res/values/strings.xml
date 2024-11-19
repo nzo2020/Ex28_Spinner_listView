@@ -1,0 +1,167 @@
+<resources>
+    <string name="app_name">Ex28</string>
+    <string-array name="classesArr">
+        <item>בחר כיתה</item>
+        <item>class 1</item>
+        <item>class 2</item>
+        <item>class 3</item>
+        <item>class 4</item>
+    </string-array>
+
+    <string-array name="class1Names">
+        <item>Ruth Cohen</item>
+        <item>Albert Levy</item>
+        <item>David Mizrahi</item>
+        <item>Sarah Abramov</item>
+        <item>Noa Golan</item>
+        <item>Daniel Rosenberg</item>
+        <item>Hila Azulay</item>
+        <item>Yonatan Katz</item>
+        <item>Emma Baruch</item>
+        <item>Omer Shaked</item>
+    </string-array>
+
+    <string-array name="class1Birthdays">
+        <item>01/01/2006</item>
+        <item>15/02/2006</item>
+        <item>22/03/2006</item>
+        <item>10/04/2006</item>
+        <item>30/05/2006</item>
+        <item>05/06/2006</item>
+        <item>18/07/2006</item>
+        <item>27/08/2006</item>
+        <item>12/09/2006</item>
+        <item>09/10/2006</item>
+    </string-array>
+
+    <string-array name="class1PhoneNums">
+        <item>052-1234567</item>
+        <item>054-2345678</item>
+        <item>050-3456789</item>
+        <item>053-4567890</item>
+        <item>055-5678901</item>
+        <item>058-6789012</item>
+        <item>052-7890123</item>
+        <item>054-8901234</item>
+        <item>050-9012345</item>
+        <item>053-0123456</item>
+    </string-array>
+
+    <string-array name="class2Names">
+        <item>Bar Malka</item>
+        <item>Gal Ben-David</item>
+        <item>Yarden Solomon</item>
+        <item>Rotem Yitzhak</item>
+        <item>Erez Goldstein</item>
+        <item>Hadar Peretz</item>
+        <item>Noga Shalom</item>
+        <item>Ofer Harush</item>
+        <item>Shaked Feldman</item>
+        <item>Lea Sasson</item>
+    </string-array>
+
+    <string-array name="class2Birthdays">
+        <item>03/01/2006</item>
+        <item>20/02/2006</item>
+        <item>14/03/2006</item>
+        <item>06/04/2006</item>
+        <item>28/05/2006</item>
+        <item>11/06/2006</item>
+        <item>23/07/2006</item>
+        <item>17/08/2006</item>
+        <item>08/09/2006</item>
+        <item>25/10/2006</item>
+    </string-array>
+
+    <string-array name="class2PhoneNums">
+        <item>052-2345678</item>
+        <item>054-3456789</item>
+        <item>050-4567890</item>
+        <item>053-5678901</item>
+        <item>055-6789012</item>
+        <item>058-7890123</item>
+        <item>052-8901234</item>
+        <item>054-9012345</item>
+        <item>050-0123456</item>
+        <item>053-1234567</item>
+    </string-array>
+
+    <string-array name="class3Names">
+        <item>Meir Yaari</item>
+        <item>Ilana Eshed</item>
+        <item>Shmuel Tzur</item>
+        <item>Tali Dahan</item>
+        <item>Amit Hadad</item>
+        <item>Or Ashkenazi</item>
+        <item>Lior Sharabi</item>
+        <item>Racheli Ben-Zvi</item>
+        <item>Eitan Alon</item>
+        <item>Michal Franco</item>
+    </string-array>
+
+    <string-array name="class3Birthdays">
+        <item>02/01/2006</item>
+        <item>13/02/2006</item>
+        <item>19/03/2006</item>
+        <item>26/04/2006</item>
+        <item>04/05/2006</item>
+        <item>21/06/2006</item>
+        <item>07/07/2006</item>
+        <item>29/08/2006</item>
+        <item>15/09/2006</item>
+        <item>10/10/2006</item>
+    </string-array>
+
+    <string-array name="class3PhoneNums">
+        <item>052-3456789</item>
+        <item>054-4567890</item>
+        <item>050-5678901</item>
+        <item>053-6789012</item>
+        <item>055-7890123</item>
+        <item>058-8901234</item>
+        <item>052-9012345</item>
+        <item>054-0123456</item>
+        <item>050-1234567</item>
+        <item>053-2345678</item>
+    </string-array>
+
+    <string-array name="class4Names">
+        <item>Aviv Vaknin</item>
+        <item>Roni Rubin</item>
+        <item>Elior Ohayon</item>
+        <item>Maya Amsalem</item>
+        <item>Tal Elbaz</item>
+        <item>Alon Kadosh</item>
+        <item>Rivka Barzilai</item>
+        <item>Nadav Kaplan</item>
+        <item>Tamar Lifshitz</item>
+        <item>Yaakov Avrahami</item>
+    </string-array>
+
+    <string-array name="class4Birthdays">
+        <item>16/01/2006</item>
+        <item>30/02/2006</item>
+        <item>12/03/2006</item>
+        <item>25/04/2006</item>
+        <item>05/05/2006</item>
+        <item>22/06/2006</item>
+        <item>09/07/2006</item>
+        <item>14/08/2006</item>
+        <item>18/09/2006</item>
+        <item>27/10/2006</item>
+    </string-array>
+
+    <string-array name="class4PhoneNums">
+        <item>052-4567890</item>
+        <item>054-5678901</item>
+        <item>050-6789012</item>
+        <item>053-7890123</item>
+        <item>055-8901234</item>
+        <item>058-9012345</item>
+        <item>052-0123456</item>
+        <item>054-1234567</item>
+        <item>050-2345678</item>
+        <item>053-3456789</item>
+    </string-array>
+
+</resources>
