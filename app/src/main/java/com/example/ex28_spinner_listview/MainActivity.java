@@ -83,6 +83,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
     public void onNothingSelected(AdapterView<?> parent) {
     }
 
+
     @Override
     public void onItemClick(AdapterView<?> adapterView, View view, int pos, long id) {
         String selectedName = (String) lVstudents.getItemAtPosition(pos);
