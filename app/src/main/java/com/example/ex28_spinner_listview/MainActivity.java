@@ -73,6 +73,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             studentsList = class4names;
         }
 
+
         ArrayAdapter<String> listAdapter = new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, studentsList);
         lVstudents.setAdapter(listAdapter);
         lVstudents.setVisibility(View.VISIBLE);
